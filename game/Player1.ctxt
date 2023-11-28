@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Player1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=Player1()
+comment2.text=\ \r\n\ Construtor\ of\ Player1\r\n
+comment3.params=
+comment3.target=void\ run_Anim()
+comment3.text=\ \r\n\ Player\ 1\ Run\ Animations\!\ \r\n\r\n
+comment4.params=
+comment4.target=void\ jump_Idle_Anim()
+comment4.text=\ \r\n\ Method\ used\ to\ create\ and\ scale\ down\ the\ image\ used\ for\ jumping\r\n\ \r\n
+comment5.params=
+comment5.target=void\ damageTaken()
+comment5.text=\ \r\n\ Method\ calculate\ the\ damage\ taken\ to\ update\ the\ health\ bar\!\r\n\ \r\n
+comment6.params=
+comment6.target=int\ getP1Health()
+numComments=7

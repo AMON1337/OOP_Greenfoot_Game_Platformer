@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Trash
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Trash\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Trash\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ drop()
+comment2.text=\r\n\ drop\ -\ if\ Trash\ isn't\ touching\ any\ platform\ and\ +5\ to\ Y,\ to\ move\ the\ object\ down\r\n\ if\ Y>710\ remove\ the\ object\ and\ remove\ -50\ points\ from\ score.\r\n
+numComments=3
