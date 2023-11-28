@@ -1,6 +1,13 @@
 # Cooperative Greenfoot Trash Collector Game
 
-This platformer game was developed as part of an Object-Oriented Programming (OOP) project using the Greenfoot framework. The primary goal of this project is to apply and demonstrate key concepts of OOP in a practical setting.
+Welcome to the Cooperative Greenfoot Trash Collector, a platformer game developed as part of an Object-Oriented Programming (OOP) project using Java and the Greenfoot framework.
+
+## Technical Details
+
+- **Language:** Java
+- **Framework:** [Greenfoot](https://www.greenfoot.org/)
+- **Game Type:** Two-player cooperative platformer
+- **Objective:** Apply OOP principles in the development of an interactive and engaging game.
 
 ## Game Theme
 
